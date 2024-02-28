@@ -11,6 +11,8 @@ builder_compose_pkgs:
   - "vim-enhanced"
   - "git"
   - "ansible-core"
+  - "cockpit"
+  - "cockpit-system"
 builder_compose_customizations:
   user:
     name: "core"
